@@ -1,3 +1,15 @@
+## AIMET
+
+AIMET is an open-source library for optimizing trained neural network models. It does this by providing advanced model compression and quantization techniques to shrink models while maintaining task accuracy. Smaller models translate into improved run-time performance and lower latency as well lower compute, memory, and power consumption.
+
+Developers can incorporate AIMET’s advanced model compression and quantization algorithms into their PyTorch and TensorFlow model-building pipelines for automated post-training optimization, as well as for model fine-tuning. Automating these algorithms helps eliminate the need for hand-optimizing neural networks that can be time-consuming, error-prone, and difficult to repeat. And as part of our Qualcomm AI Stack, you can combine multiple software capabilities in your development.
+
+Qualcomm Innovation Center (QuIC) open sourced AIMET on GitHub to collaborate with other leading AI researchers and to provide a simple library plugin for AI developers to utilize for state-of-the-art model efficiency performance. The cutting-edge compression and quantization techniques are based on innovative research from Qualcomm AI Research.
+<br>
+https://github.com/quic/aimet
+<br>
+https://github.com/quic/aimet-model-zoo
+
 ## Machine Vision SDK
 
 The machine vision (MV) SDK is a C programming API comprised of a binary library and some header files. It is targeted towards robotics developers looking to utilize the full capabilities of Snapdragon® platforms for autonomous robotic systems. The MV SDK is engineered to supply the cutting edge computer vision algorithms to provide localization, feature recognition and obstacle detection for Snapdragon platforms. 
