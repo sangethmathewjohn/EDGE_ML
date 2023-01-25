@@ -10,6 +10,9 @@ https://developer.qualcomm.com/software/ai-model-efficiency-toolkit
 https://github.com/quic/aimet
 <br>
 https://github.com/quic/aimet-model-zoo
+<br>
+https://quic.github.io/aimet-pages/
+https://quic.github.io/aimet-pages/AimetDocs/user_guide/model_quantization.html?highlight=quantization%20aware
 
 ## Machine Vision SDK
 
