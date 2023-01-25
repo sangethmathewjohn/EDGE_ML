@@ -14,6 +14,21 @@ https://github.com/quic/aimet-model-zoo
 https://quic.github.io/aimet-pages/
 https://quic.github.io/aimet-pages/AimetDocs/user_guide/model_quantization.html?highlight=quantization%20aware
 
+## Qualcomm Neural Processing SDK for AI
+
+The Qualcomm® Neural Processing SDK for artificial intelligence (AI) is engineered to help developers save time and effort in optimizing performance of trained neural networks on devices with Snapdragon. And as part of our Qualcomm AI Stack, it can help add a neural network on device without a need for connection to the cloud.
+
+The Qualcomm Neural Processing SDK provides tools for model conversion and execution as well as APIs for targeting the core with the power and performance profile to match the desired user experience. The Qualcomm Neural Processing SDK supports convolutional neural networks and custom layers.
+
+The Qualcomm Neural Processing SDK does a lot of the heavy lifting needed to run neural networks on Snapdragon mobile platforms, which can help provide developers with more time and resources to focus on building new and innovative user experiences.
+
+The Qualcomm® Neural Processing SDK allows developers to convert neural network models trained in Caffe/Caffe2, ONNX, or TensorFlow and run them optimally on Snapdragon® mobile platforms.
+The Qualcomm® Neural Processing SDK allows developers to convert neural network models trained in Caffe/Caffe2, ONNX, or TensorFlow and run them optimally on Snapdragon® mobile platforms.
+
+https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/getting-started
+<br>
+https://developer.qualcomm.com/sites/default/files/docs/snpe/network_layers.html
+
 ## Machine Vision SDK
 
 The machine vision (MV) SDK is a C programming API comprised of a binary library and some header files. It is targeted towards robotics developers looking to utilize the full capabilities of Snapdragon® platforms for autonomous robotic systems. The MV SDK is engineered to supply the cutting edge computer vision algorithms to provide localization, feature recognition and obstacle detection for Snapdragon platforms. 
