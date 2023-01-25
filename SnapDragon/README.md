@@ -2,6 +2,7 @@
 
 The machine vision (MV) SDK is a C programming API comprised of a binary library and some header files. It is targeted towards robotics developers looking to utilize the full capabilities of Snapdragon® platforms for autonomous robotic systems. The MV SDK is engineered to supply the cutting edge computer vision algorithms to provide localization, feature recognition and obstacle detection for Snapdragon platforms. 
 https://developer.qualcomm.com/software/machine-vision-sdk
+<br>
 https://github.com/ATLFlight/ATLFlightDocs
 
 #### The MV SDK is designed to support the following algorithms:
